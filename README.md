@@ -40,4 +40,4 @@ Detailed documentation, SQL logic, and the full interactive dashboard are availa
 👉 **[Full Project Case Study on Notion](https://www.notion.so/Project-SQL-Excel-30b2e2b3003280ea81afe94fef1d256c?source=copy_link)**
 
 ---
-*Developed by [Your Name]* | *Data Source: Olist E-commerce Dataset (Kaggle)*
+*Developed by Chitnapak Kingkoyao*
