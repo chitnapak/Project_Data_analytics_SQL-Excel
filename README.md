@@ -7,13 +7,19 @@ An end-to-end data analytics project transforming raw Brazilian e-commerce logis
 
 ---
 
+## 📑 Table of Contents
+* [📌 Project Overview](#-project-overview)
+* [🛠️ Data Exploration & Preparation](#️-data-exploration--preparation)
+* [📊 Key Insights & Strategic Actions](#-key-insights--strategic-actions)
+* [🔗 Full Case Study](#-full-case-study)
+
+---
+
 ## 📌 Project Overview
 The project evaluates delivery performance and identifies systemic bottlenecks through three key dimensions:
 1. **Operational Efficiency:** Analyzing the breakdown between warehouse handling and actual transit time.
 2. **Satisfaction Trends:** Identifying the "Critical Threshold" where delivery delays directly impact review scores.
 3. **Geographic Analysis:** Pinpointing nationwide disruptions and regional carrier failures using Heatmaps.
-
-
 
 ---
 
@@ -30,8 +36,6 @@ Before analysis, a robust Data Pipeline was built to handle complex Relational D
 * **The 8-Day Rule:** Data proves that maintaining an "Early Delivery" buffer of at least 8 days ensures a 4.0+ star satisfaction rating.
 * **Systemic Shock Identification:** The March 2018 crisis was identified as a nationwide failure rather than a regional one, evidenced by simultaneous "Dark Orange" bands across all states in the Heatmap.
 * **Strategic Proposals:** Recommended an **Early Warning Alert** system for orders with <10 days buffer and a carrier restructuring plan for remote states (AP, RR).
-
-
 
 ---
 
