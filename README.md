@@ -5,23 +5,17 @@
 
 An end-to-end data analytics project transforming raw Brazilian e-commerce logistics data into actionable strategic insights. This project proves the correlation between **"Delivery Speed"** and **"Customer Satisfaction"**.
 
----
-
 ## 📑 Table of Contents
 * [📌 Project Overview](#-project-overview)
 * [🛠️ Data Exploration & Preparation](#️-data-exploration--preparation)
 * [📊 Key Insights & Strategic Actions](#-key-insights--strategic-actions)
 * [🔗 Full Case Study](#-full-case-study)
 
----
-
 ## 📌 Project Overview
 The project evaluates delivery performance and identifies systemic bottlenecks through three key dimensions:
 1. **Operational Efficiency:** Analyzing the breakdown between warehouse handling and actual transit time.
 2. **Satisfaction Trends:** Identifying the "Critical Threshold" where delivery delays directly impact review scores.
 3. **Geographic Analysis:** Pinpointing nationwide disruptions and regional carrier failures using Heatmaps.
-
----
 
 ## 🛠️ Data Exploration & Preparation
 Before analysis, a robust Data Pipeline was built to handle complex Relational Data:
@@ -30,14 +24,10 @@ Before analysis, a robust Data Pipeline was built to handle complex Relational D
 * **Stable Operations Filtering:** Intentionally excluded 2016 data to focus on 2017-2018, ensuring the analysis reflects a period of stable business operations.
 * **ETL Process:** Exported 100% cleaned data to CSV for high-fidelity visualization in Microsoft Excel.
 
----
-
 ## 📊 Key Insights & Strategic Actions
 * **The 8-Day Rule:** Data proves that maintaining an "Early Delivery" buffer of at least 8 days ensures a 4.0+ star satisfaction rating.
 * **Systemic Shock Identification:** The March 2018 crisis was identified as a nationwide failure rather than a regional one, evidenced by simultaneous "Dark Orange" bands across all states in the Heatmap.
 * **Strategic Proposals:** Recommended an **Early Warning Alert** system for orders with <10 days buffer and a carrier restructuring plan for remote states (AP, RR).
-
----
 
 ## 🔗 Full Case Study
 Detailed documentation, SQL logic, and the full interactive dashboard are available here:
