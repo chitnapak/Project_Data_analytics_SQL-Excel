@@ -12,6 +12,8 @@ An end-to-end data analytics project transforming raw Brazilian e-commerce logis
 * [🔗 Full Case Study](#-full-case-study)
 
 ## 📌 Project Overview
+![Alt text](https://github.com/chitnapak/Project_Data_analytics_SQL-Excel/blob/cf8e586c92645d3735d5502b9b4888498c9cbe05/PicSQL%26Ex.png)
+
 The project evaluates delivery performance and identifies systemic bottlenecks through three key dimensions:
 1. **Operational Efficiency:** Analyzing the breakdown between warehouse handling and actual transit time.
 2. **Satisfaction Trends:** Identifying the "Critical Threshold" where delivery delays directly impact review scores.
